@@ -47,3 +47,4 @@ The circuit consists of the following blocks:
 *(Circuit diagram image is attached in this repository)*
 
 
+
